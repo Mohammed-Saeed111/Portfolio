@@ -7,8 +7,8 @@ Welcome to my portfolio! I am a passionate **Full-Stack Web Developer** with exp
 ## 🚀 About Me
 - 🎓 **Graduate of NTI & Manara Tech**
 - 💡 Experienced in **Front-End & Back-End Development**
-- 🛠️ Skilled in **JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Angular.js, C++, and Python**
-- 🌍 English Proficiency: **B1 Level**
+- 🛠️ Skilled in **JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, React.js, C++, and Python**
+- 🌍 English Proficiency: **B2 Level**
 - 📍 Based in **Egypt**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-saeed-b8a5ba19b)
 
